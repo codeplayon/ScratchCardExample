@@ -2,6 +2,7 @@
 Scratch Card Example for point 
 To get a Git project into your build:
 
+
 Step 1. Add the JitPack repository to your build file
 Add it in your root build.gradle at the end of repositories:
 
@@ -22,3 +23,6 @@ Add it in your root build.gradle at the end of repositories:
 	        implementation 'com.github.codeplayon:ScratchCardExample:ScratchCardView'
 		
 	}
+
+
+Also Read On https://www.codeplayon.com/2022/12/scratch-card-view-like-google-pay/
